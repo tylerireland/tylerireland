@@ -29,6 +29,7 @@ I am so proud and excited to become a future software developer!
 - <b>C++</b>
   - [Party Die](https://github.com/tylerireland/Party-Die)
 
+<br/>
 <h3> Linked in:</h3>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
