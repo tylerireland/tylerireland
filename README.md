@@ -1,42 +1,39 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Tyler! <br/>Computer Science Major, Wright State University</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>About Me:</h2>
+Thank you for visting my GitHub Repository! 
+<br/>
+<br/>
+I'm Tyler, a student at Wright State University pursuing a bachelor's degree in computer science. In the winter of 2022, I completed my associate's degree in computer science at Sinclair Community College and I am now trying to further my education. My long term goal is to earn a master's degree and teach future students about the possibilities and wonders of programming.  
+<br/>
+<br/>
+Computer science is such a huge part of everybody's lives but many people do not realize that it's everywhere! This is something that should be taught in every school, not just select ones. I only had one class in my high school that talked about computer science, and it was only a small part of that class. We used Scratch, which is a very elementary form of coding. I created a very simple game, it was similar to the old snake game, the scratch character had to grab apples that were falling out of the trees. Every time one was collected, another one fell. Although it wasn't the most complex game, I felt so excited that I actually created a game! It was my first exposure to programming and I knew that I wanted to keep learning more.
+<br/>
+<br/>
+Five years later, after changing majors from Computer Science to Information Technology, and then back to Computer Science, I have learned so much about development and gained so much experience and determination to create projects on my own and take my own initiative to learn new things. 
+<br/>
+<br/>
+I am so proud and excited to become a future software developer!
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+<h2>Software Development Projects:</h2>
+
+- <b>Java</b>
+  - [Facebook Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Text-Based Game](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Hangman](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Item Profit Tracker](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Calorie Crunch](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-<h2>📺 Popular YouTube Videos</h2>
+- <b>C++</b>
+  - [Party Die](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h3> Linked in:</h3>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/tyler-ireland-99a597234/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
