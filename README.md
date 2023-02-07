@@ -18,16 +18,16 @@ I am so proud and excited to become a future software developer!
 <h2>Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Facebook Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Text-Based Game](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Hangman](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Facebook Project](https://github.com/tylerireland/Facebook-Project)
+  - [Text-Based Game](https://github.com/tylerireland/Text-Based-Game)
+  - [Hangman](https://github.com/tylerireland/Hangman)
   
 - <b>Python</b>
-  - [Item Profit Tracker](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Calorie Crunch](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Item Profit Tracker](https://github.com/tylerireland/Item-Profit-Tracker)
+  - [Calorie Crunch](https://github.com/tylerireland/Calorie-Crunch)
 
 - <b>C++</b>
-  - [Party Die](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Party Die](https://github.com/tylerireland/Party-Die)
 
 <h3> Linked in:</h3>
 
