@@ -4,7 +4,7 @@
 Thank you for visting my GitHub Repository! 
 <br/>
 <br/>
-I'm Tyler, a student at Wright State University pursuing a bachelor's degree in computer science. In the winter of 2022, I completed my associate's degree in computer science at Sinclair Community College and I am now trying to further my education. My long term goal is to earn a master's degree and teach future students about the possibilities and wonders of programming.  
+I'm Tyler, a student at Wright State University pursuing a bachelor's degree in computer science. In the winter of 2021, I completed my associate's degree in computer science at Sinclair Community College and I am now trying to further my education. My long term goal is to earn a master's degree and teach future students about the possibilities and wonders of programming.  
 <br/>
 <br/>
 Computer science is such a huge part of everybody's lives but many people do not realize that it's everywhere! This is something that should be taught in every school, not just select ones. I only had one class in my high school that talked about computer science, and it was only a small part of that class. We used Scratch, which is a very elementary form of coding. I created a very simple game, it was similar to the old snake game, the scratch character had to grab apples that were falling out of the trees. Every time one was collected, another one fell. Although it wasn't the most complex game, I felt so excited that I actually created a game! It was my first exposure to programming and I knew that I wanted to keep learning more.
